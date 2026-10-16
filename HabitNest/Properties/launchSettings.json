@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "HabitNest": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "HABITNEST_BOT_TOKEN": "8979007115:AAERJgI7OhIL37kZWE1Ko8DonXnRvDtTvQ4"
+      }
+    }
+  }
+}
